@@ -2,17 +2,17 @@
   "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
   "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
     "ID": 137
   },
-  "NFT_NAME": "Maniacs NFT",
-  "SYMBOL": "MaNFT",
-  "MAX_SUPPLY": 1000,
+  "NFT_NAME": "Cryptomaniacs NFT",
+  "SYMBOL": "Cryptomaniac",
+  "MAX_SUPPLY": 3000,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "DISPLAY_COST": 0.02,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cryptomaniacs-v3",
   "SHOW_BACKGROUND": true
 }
