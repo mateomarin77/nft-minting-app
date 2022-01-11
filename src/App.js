@@ -203,7 +203,7 @@ function App() {
         image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
       >
         <a href={CONFIG.MARKETPLACE_LINK}>
-          <StyledLogo alt={"logo"} src={"/config/images/loo.png"} />
+          <StyledLogo alt={"logo"} style={{ width: 400 }} src={"/config/images/logo.png"} />
         </a>
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
@@ -431,6 +431,23 @@ function App() {
             gas limit.
           </s.TextDescription>
         </s.Container>
+      </s.Container>
+      <s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
+
+       <div class="accordion">
+ 
+    <div>
+        <h1> Heading </h1>
+        <div> Content </div>
+    </div>
+    
+    <div>
+        <h1> Heading </h1>
+        <div> Content </div>
+    </div>
+    
+</div>
+
       </s.Container>
     </s.Screen>
   );
