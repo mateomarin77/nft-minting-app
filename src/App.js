@@ -200,8 +200,8 @@ function App() {
 
         flex={1}
         ai={"center"}
-        style={{ padding: 24, backgroundSize: "900px", backgroundColor: "var(--primary)" }}
-        image={CONFIG.SHOW_BACKGROUND ? "/config/images/mosh.gif" : null}
+        style={{ padding: 24, backgroundSize: "900px", backgroundColor: "black" }}
+        image={CONFIG.SHOW_BACKGROUND ? "/config/images/mosh2.gif" : null}
         
       >
  <h3>MINT THE MANIACS NOW</h3>
