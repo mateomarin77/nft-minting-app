@@ -195,17 +195,29 @@ function App() {
 
   return (
     <s.Screen>
+
       <s.Container
 
         flex={1}
         ai={"center"}
         style={{ padding: 24, backgroundColor: "var(--primary)" }}
         image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
+        
       >
-        <a href={CONFIG.MARKETPLACE_LINK}>
-          <StyledLogo alt={"logo"} style={{ width: 400 }} src={"/config/images/logo.png"} />
-        </a>
+ <h3>MINT THE MANIACS NOW</h3>
+   
+<div class="avatar"></div>
+
+  
+
+
+              
+     
+        
+    
         <s.SpacerSmall />
+
+        
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
             <StyledImg alt={"example"} src={"/config/images/example.gif"} />
@@ -431,24 +443,12 @@ function App() {
             gas limit.
           </s.TextDescription>
         </s.Container>
-      </s.Container>
-      <s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
 
-       <div class="accordion">
- 
-    <div>
-        <h1> Heading </h1>
-        <div> Content </div>
-    </div>
-    
-    <div>
-        <h1> Heading </h1>
-        <div> Content </div>
-    </div>
-    
-</div>
-
+        <section class="container">
+  <h1 class="title">Cryptomaniacs 🥵 the lorem ipsum of NFTs 👀 join the lorem, ipsum your mind 🌚 the MOON is to close for US.</h1>
+</section>
       </s.Container>
+      
     </s.Screen>
   );
 }
