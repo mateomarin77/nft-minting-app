@@ -445,7 +445,8 @@ function App() {
         </s.Container>
 
         <section class="container">
-  <h1 class="title">Cryptomaniacs 🥵 the lorem ipsum of NFTs 👀 join the lorem, ipsum your mind 🌚 the MOON is to close for US.</h1>
+  <h1 class="title">🚀 The lorem ipsum of NFTs 👀 join the lorem,🛸  ipsum your mind 🌚 the MOON is too close for us. </h1>
+  
 </section>
       </s.Container>
       
