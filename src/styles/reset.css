@@ -198,7 +198,7 @@ h1 { font-size: 5em; }
   padding:20px;
  
 
-  background: url('http://localhost:3000/config/images/logo.png');
+  background: url('https://cryptomaniacs-nft.herokuapp.com/config/images/logo.png');
   background-size: contain;
   background-repeat: no-repeat;
 
