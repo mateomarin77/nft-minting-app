@@ -195,6 +195,7 @@ h1 { font-size: 5em; }
 .avatar {
   width: 500px;
   height: 400px;
+  padding:20px;
  
 
   background: url('http://localhost:3000/config/images/logo.png');
