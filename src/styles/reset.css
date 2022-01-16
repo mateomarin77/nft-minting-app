@@ -85,7 +85,11 @@ video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+  cursor:url(https://icons.iconarchive.com/icons/hopstarter/plastic-mini/32/Cursor-icon.png), auto;
+  
 }
+
+
 /* HTML5 display-role reset for older browsers */
 article,
 aside,
@@ -184,10 +188,10 @@ h1 { font-size: 5em; }
 
 @keyframes textflicker {
   from {
-    text-shadow: 1px 0 0 #ea36af, -2px 0 0 #75fa69;
+    text-shadow: 1px 0 0 #F4232E, -2px 0 0 #75fa69;
   }
   to {
-    text-shadow: 2px 0.5px 2px #ea36af, -1px -0.5px 2px #75fa69;
+    text-shadow: 2px 0.5px 2px #F4232E, -1px -0.5px 2px #75fa69;
   }
 }
 
